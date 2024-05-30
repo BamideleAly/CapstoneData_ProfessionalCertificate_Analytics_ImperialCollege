@@ -14,7 +14,7 @@ Methods
 Results
 Conclusion
 Future Work
-License
+
 
 Introduction
 
